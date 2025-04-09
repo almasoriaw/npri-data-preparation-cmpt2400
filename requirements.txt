@@ -1,0 +1,13 @@
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+jupyterlab>=3.0.0
+jupyter>=1.0.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+openpyxl>=3.0.0
+geopandas>=0.10.0  # For geographic analysis
+statsmodels>=0.13.0  # For statistical modeling
+plotly>=5.5.0  # For interactive visualizations
+ipywidgets>=7.6.0  # For interactive widgets in notebooks

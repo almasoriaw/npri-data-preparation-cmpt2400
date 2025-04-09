@@ -1,0 +1,64 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data files
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+data/interim/*.csv
+*.csv.gz
+*.parquet
+*.feather
+
+# Environment
+venv/
+env/
+.env
+.venv
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Temporary files
+*.tmp
+
+# Artifacts from plotting
+*.png
+*.jpg
+*.pdf
+*.html
+
+# Cached data
+.cache/
+*_cache/
+df_release_p2 (6).csv
+NPRI-INRP_ReleasesRejets_1993-present (1).csv
+NPRI_2000-2022 (2).xlsx
+data/raw/*
+data/processed/*
